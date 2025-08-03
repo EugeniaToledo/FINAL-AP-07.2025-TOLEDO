@@ -34,3 +34,28 @@ Entre las diferentes dimensiones de factibilidad, para este proyecto se analizar
    - Posibles fuentes de ingresos, como comisiones por venta, suscripciones premium o publicidad.
    - Punto de equilibrio estimado y proyección de retorno de inversión.
    Este análisis permitirá decidir si la relación entre costos y beneficios justifica la ejecución del proyecto.
+
+## 7. Framework o metodología de gestión de proyecto
+
+Para el desarrollo de **NullFood** utilizaría la metodología **Scrum**, ya que es un marco de trabajo ágil que permite gestionar proyectos de forma iterativa e incremental, enfocándose en la entrega temprana y continua de valor al usuario.
+
+**Justificación de la elección:**
+Scrum se adapta muy bien a proyectos de desarrollo de software como NullFood, ya que:
+- Facilita la adaptación a cambios en los requisitos, algo habitual en startups y proyectos innovadores.
+- Permite entregar versiones funcionales de la aplicación en cortos periodos de tiempo (*Sprints*), obteniendo retroalimentación temprana de usuarios y comercios.
+- Promueve la comunicación constante entre todos los miembros del equipo, mejorando la coordinación entre desarrolladores, diseñadores y responsables de negocio.
+- Integra la revisión y mejora continua del producto mediante reuniones periódicas (*Sprint Review* y *Retrospective*).
+- Favorece la priorización de funcionalidades a través del *Product Backlog*, asegurando que se trabaje primero en lo que más valor aporta al proyecto.
+
+**Estructura de trabajo propuesta en Scrum para NullFood:**
+- **Sprints** de 2 semanas.
+- **Reuniones diarias** (*Daily Scrum*) para seguimiento y resolución de bloqueos.
+- **Revisión de Sprint** para mostrar avances y recibir comentarios.
+- **Retrospectiva** para identificar oportunidades de mejora en el equipo.
+- **Roles definidos**:  
+  - *Product Owner*: Encargado de definir la visión del producto y priorizar el backlog.  
+  - *Scrum Master*: Facilita el proceso y elimina impedimentos.  
+  - *Equipo de desarrollo*: Diseña, construye y prueba las funcionalidades.
+
+Esta metodología permitirá que NullFood evolucione de forma controlada pero flexible, incorporando mejoras continuas y minimizando riesgos asociados a cambios de alcance o necesidades del mercado.
+
