@@ -64,4 +64,21 @@ Esta metodología permitirá que NullFood evolucione de forma controlada pero fl
 La gestión de riesgos consiste en identificar, analizar y priorizar amenazas que puedan afectar el proyecto, para luego planificar y ejecutar acciones que reduzcan su probabilidad o impacto.  
 **Estrategia para R01 (fallas en integración de pagos):** Realizar pruebas exhaustivas, usar un proveedor confiable y establecer un entorno de prueba seguro antes del lanzamiento.
 
+## 9. Herramienta de gestión/seguimiento de proyecto
+
+Para el seguimiento y organización del proyecto **NullFood** utilizaría **Trello**, una herramienta visual basada en tableros Kanban que permite gestionar tareas de forma clara y colaborativa.
+
+**Motivos de la elección:**
+- Organización visual en columnas (*Por hacer*, *En progreso*, *Hecho*), fácil de comprender por todo el equipo.
+- Permite asignar tareas, establecer fechas límite y añadir comentarios o adjuntos.
+- Facilita el trabajo remoto y la sincronización entre desarrolladores, diseñadores y PM.
+- Accesible desde cualquier dispositivo y con versión gratuita suficiente para el alcance del proyecto.
+
+**Ejemplo de uso para NullFood:**
+- **Columna “Por hacer”**: Lista de funcionalidades pendientes (registro, pasarela de pagos, geolocalización).
+- **Columna “En progreso”**: Funciones actualmente en desarrollo.
+- **Columna “Hecho”**: Funciones completadas y listas para pruebas.
+
+![Ejemplo de tablero Trello](https://upload.wikimedia.org/wikipedia/commons/7/7a/Trello_board_example.png)
+
 
