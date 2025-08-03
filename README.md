@@ -79,6 +79,6 @@ Para el seguimiento y organización del proyecto **NullFood** utilizaría **Trel
 - **Columna “En progreso”**: Funciones actualmente en desarrollo.
 - **Columna “Hecho”**: Funciones completadas y listas para pruebas.
 
-![Ejemplo de tablero Trello](https://upload.wikimedia.org/wikipedia/commons/7/7a/Trello_board_example.png)
+![Ejemplo de tablero Trello]
 
 
