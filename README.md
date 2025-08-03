@@ -59,3 +59,9 @@ Scrum se adapta muy bien a proyectos de desarrollo de software como NullFood, ya
 
 Esta metodología permitirá que NullFood evolucione de forma controlada pero flexible, incorporando mejoras continuas y minimizando riesgos asociados a cambios de alcance o necesidades del mercado.
 
+## 8. Gestión de riesgos
+
+La gestión de riesgos consiste en identificar, analizar y priorizar amenazas que puedan afectar el proyecto, para luego planificar y ejecutar acciones que reduzcan su probabilidad o impacto.  
+**Estrategia para R01 (fallas en integración de pagos):** Realizar pruebas exhaustivas, usar un proveedor confiable y establecer un entorno de prueba seguro antes del lanzamiento.
+
+
